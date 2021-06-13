@@ -16,3 +16,6 @@
 12. 色調
 13. 稀釋酒的OD280/OD315
 14. 脯氨酸
+
+
+資料來源：https://archive.ics.uci.edu/ml/datasets/wine
